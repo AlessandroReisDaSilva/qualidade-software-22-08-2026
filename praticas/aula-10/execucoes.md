@@ -5,16 +5,16 @@
 **Responsável:** Alessandro Reis da Silva
 **Data:** 18/10/2026  
 **Ambiente:** Firefox, computador, aplicação online  
-**Situação:** Passou | Falhou | Bloqueado
+**Situação:** Passou
 
 **Resultado esperado:**  
-[preencher]
+Não conseguir entrar na conta com a senha incorreta.
 
 **Resultado obtido:**  
-[preencher]
+Não consegui entrar na conta com a senha incorreta.
 
 **Evidência:**  
-evidencias/CT01-resultado.png
+evidencias/printscreen.png
 
 **Defeito relacionado:**  
 #1, quando aplicável
