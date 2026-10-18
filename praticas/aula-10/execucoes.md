@@ -2,9 +2,9 @@
 
 ### Execução CT01
 
-**Responsável:** Nome do estudante  
-**Data:** 06/10/2026  
-**Ambiente:** Chrome, computador, aplicação online  
+**Responsável:** Alessandro Reis da Silva
+**Data:** 18/10/2026  
+**Ambiente:** Firefox, computador, aplicação online  
 **Situação:** Passou | Falhou | Bloqueado
 
 **Resultado esperado:**  
